@@ -1,1 +1,1 @@
-# vue-netflix
+# Netflix
